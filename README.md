@@ -1,3 +1,1 @@
-# hello-world
-Just another repository
-git is repository.
+新加入内容
